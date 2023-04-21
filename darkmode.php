@@ -1,0 +1,1 @@
+<button onclick="DarkMode()">Dark Mode</button>
